@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.boxTicket {
+    padding: 20px;
+    border: 1px solid lightcoral;
+}
+
+.infoTicket {
+    display: flex;
+    justify-content: space-around;
+}
+
+.filters {
+    margin-right: 30px;
+    padding: 20px;
+    height: 100%;
+}
+
+.filters h3 {
+    text-transform: uppercase;
+}
